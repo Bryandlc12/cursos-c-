@@ -9,3 +9,6 @@ int main (){
         printf("%d, ",numero1);
         numero++;
     }
+   printf("\n");
+    return 0;
+}
