@@ -6,3 +6,5 @@ int main (){
     double area = pi * r* r;
 printf("%f", area);
 printf("\n");
+   return 0;
+}
