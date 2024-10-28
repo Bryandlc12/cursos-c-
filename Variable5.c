@@ -8,3 +8,5 @@ int main(){
 res = ent * ent2 * ent3;
     printf("El resultado de multiplicar %d * %d * %d es : %d\t", ent, ent2, ent3, res);
     printf("El resultado es: %d", res);
+ printf("\n");
+    return 0;
