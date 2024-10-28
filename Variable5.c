@@ -10,3 +10,4 @@ res = ent * ent2 * ent3;
     printf("El resultado es: %d", res);
  printf("\n");
     return 0;
+}
